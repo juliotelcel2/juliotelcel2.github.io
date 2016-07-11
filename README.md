@@ -26,6 +26,6 @@ Este es un sitio web para publicaciones y eventos de una universidad y esta estr
 -imagenes secundarias mas pequeñas relacionadas con el tema.
 -enlaces para compartir el post en redes sociales
 
-para mas informacion escribame a mi correo:juliotelcel@hotmail.com
+para mas informacion puede consultar el wiki "historia del proyecto desafio2 creacion blog universitario" de este proyecto o escribame a mi correo:juliotelcel@hotmail.com
 
 Toda este sitio y la informacion utilizada se realizo como parte del Desafio 2: Blog Universitario. Local + GitHub del curso de git y github de platzi
